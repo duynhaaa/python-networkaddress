@@ -125,6 +125,7 @@ def test_to_string_invalid() -> None:
     with pytest.raises(ValueError):
         MACAddress.from_string("12345Z")
 
+
 REPR_REGEX = re.compile(
     r"([_\w]+\.)+MACAddress\([0-9a-f]{2}(:[0-9a-f]{2}){5}\)"
 )
