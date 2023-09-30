@@ -42,10 +42,8 @@ classifiers = [
 ]
 
 [project.urls]
-homepage = ""
-documentation = ""
-repository = ""
-changelog = ""
+homepage = "https://github.com/duynhaaa/networkaddress"
+repository = "https://github.com/duynhaaa/networkaddress"
 
 
 [project.optional-dependencies]
