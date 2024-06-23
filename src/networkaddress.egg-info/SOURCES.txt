@@ -1,0 +1,7 @@
+pyproject.toml
+src/networkaddress.py
+src/networkaddress.egg-info/PKG-INFO
+src/networkaddress.egg-info/SOURCES.txt
+src/networkaddress.egg-info/dependency_links.txt
+src/networkaddress.egg-info/top_level.txt
+tests/test.py
